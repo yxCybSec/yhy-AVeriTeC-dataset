@@ -1,3 +1,4 @@
+This repository maintains the dataset described in the paper [AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web](https://arxiv.org/abs/2305.13117).
 ### Format 格式
 
 The dataset is formatted as JSON, with each split located as a separate file in the `data/`-folder. Each claim is an object of the following form:
